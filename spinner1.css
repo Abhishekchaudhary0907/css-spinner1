@@ -18,16 +18,9 @@ body{
     height: 10rem;
     
     position: absolute;
-    /* top: 50%; */
-    /* left: 50%; */
-    /* transform: translate(-50%,-50%); */
-
-    display: inline;
-    box-sizing: border-box;
-    border: #7aa7d4 1px 1px solid;
-    box-shadow: #7aa7d4  1px 1px;
-    margin: 100px;
-    padding: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 
 }
 
